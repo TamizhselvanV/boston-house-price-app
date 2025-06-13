@@ -12,6 +12,7 @@ Features
 💡 User can input features and get predicted house price instantly
 
 Project Structure:-
+
 ├── app.py                
 ├── model.pkl            
 ├── boston_model.ipynb    
