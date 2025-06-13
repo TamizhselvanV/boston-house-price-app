@@ -21,7 +21,11 @@ Project Structure:-
     └── index.html    
 
 How to Run
+
 Clone the repo
+
 Install dependencies: pip install flask scikit-learn pandas numpy
+
 Run the app: python app.py
+
 Open http://127.0.0.1:5000 in your browser.
