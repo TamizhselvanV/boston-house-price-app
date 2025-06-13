@@ -13,12 +13,11 @@ Features
 
 Project Structure
 .
-├── app.py                # Flask backend code
-├── model.pkl             # Saved ML model
-├── boston_model.ipynb    # Model training notebook
+├── app.py                
+├── model.pkl            
+├── boston_model.ipynb    
 └── templates/
-    └── index.html        # Frontend UI (with custom CSS)
-
+    └── index.html        
 How to Run
 Clone the repo
 
